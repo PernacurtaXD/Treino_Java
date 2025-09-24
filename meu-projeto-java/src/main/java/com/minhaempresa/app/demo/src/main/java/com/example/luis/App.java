@@ -1,6 +1,6 @@
 package com.minhaempresa.app.demo.src.main.java.com.example.luis;
 
-import com.minhaempresa.app.demo.src.main.java.com.Pessoa;
+import com.minhaempresa.app.demo.*;
 
 /**
  * Hello world!
@@ -14,6 +14,7 @@ public class App
 
 
        pessoa.toString();
+
 
     }
 }

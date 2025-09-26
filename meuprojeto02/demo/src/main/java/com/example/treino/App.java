@@ -23,6 +23,6 @@ public class App {
         for(int i = 0; i < 3; i++){
             System.out.println((i+1) + "º nota: " + notas[i]);
         } 
-        System.out.println("Media: " + media%.2f);
+        System.out.println("Media: " + media);
     }
 }

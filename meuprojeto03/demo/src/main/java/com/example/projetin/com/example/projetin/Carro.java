@@ -55,6 +55,11 @@ public class Carro implements Veiculo{
     public void desligar(){
         System.out.println("Carro desligado");
     }
+
+    @Override
+    public String toString() {
+        return "\nModelo: " + modelo + "\nMarca: " + marca + "\nPlaca: " + placa + "\nAno: " + ano;
+    }
     
     
     

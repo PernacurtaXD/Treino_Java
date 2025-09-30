@@ -7,7 +7,10 @@ package com.example.projetin;
 public class App 
 {
     public static void main( String[] args ){
-        
-        System.out.println( "Hello World!" );
+        Carro carro = new Carro("Prisma", "Chevrolet", "RTK1563", 2019);
+
+
+        System.out.println(carro.toString());
+        carro.desligar();
     }
 }

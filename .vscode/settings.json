@@ -1,8 +1,9 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.project.sourcePaths": [
+        "meuprojeto05/demo/src/main/java/com/example/meutreino01",
         "meuprojeto03/demo/src/main/java/com/example/projetin",
         "meu-projeto-java/src/main/java",
-        "meuprojeto05/demo/src/main/java/com/example/meutreino01"
+        "meuprojeto07/demo/src/main/java/com/example/meutreino05"
     ]
 }

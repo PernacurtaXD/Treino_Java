@@ -1,5 +1,4 @@
-package com.minhaempresa.app.demo.src.main.java.com;
-import com.minhaempresa.app.demo.src.main.java.com.example.luis.Sexo;
+package com.example.luis;
 
 public class Pessoa {
     private String nome;

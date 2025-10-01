@@ -1,7 +1,7 @@
 package com.example.meutreino;
 import java.util.Scanner;
 
-public class App 
+public class Main02 
 {
     public static void main( String[] args ){
         Scanner teclado = new Scanner(System.in);

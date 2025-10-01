@@ -1,6 +1,5 @@
-package com.minhaempresa.app.demo.src.main.java.com.example.luis;
+package com.example.luis;
 
-import com.minhaempresa.app.demo.*;
 
 /**
  * Hello world!
